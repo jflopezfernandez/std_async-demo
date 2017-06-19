@@ -11,12 +11,6 @@
 #include <functional>
 
 
-int increment(int n)
-{
-	return (n + 1);
-}
-
-
 std::set<int> MakeSortedRandomSet(const size_t n);
 
 
